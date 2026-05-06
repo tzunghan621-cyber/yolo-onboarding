@@ -14,7 +14,7 @@
 
 本教材主張：**任何開源套件在首次安裝前，應通過四道關卡的檢查**。本 repo 同時提供：
 
-1. 抽象的方法論 → [`流程.md`](流程.md)
+1. 抽象的方法論 → [`開源安全檢查流程.md`](開源安全檢查流程.md)
 2. 在 Ultralytics YOLO 上的實際操作示範 → [`案例.md`](案例.md)
 3. 案例中產出的原始證據（raw evidence）→ [`doc/R1_reputation.md`](doc/R1_reputation.md)、[`doc/R2_dependency.md`](doc/R2_dependency.md)、[`doc/R3_runtime.md`](doc/R3_runtime.md)
 4. 進階主題（YOLOE、訓練、ONNX、商用授權）→ [`進階.md`](進階.md)
@@ -31,7 +31,7 @@
 建議閱讀順序：
 
 1. 本 README — 理解問題與框架
-2. [`流程.md`](流程.md) — 抽象方法論（不喜歡抽象可先跳過）
+2. [`開源安全檢查流程.md`](開源安全檢查流程.md) — 抽象方法論（不喜歡抽象可先跳過）
 3. [`案例.md`](案例.md) — 跟著做一遍
 4. [`webcam.py`](webcam.py) — 動手跑
 5. [`doc/`](doc/) — 想看細節時的補充
