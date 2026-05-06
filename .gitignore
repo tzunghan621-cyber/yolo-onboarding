@@ -1,0 +1,23 @@
+# venv
+.venv/
+
+# weights (large, easy to re-download from Ultralytics)
+weights/
+
+# test images / outputs
+bus.jpg
+runs/
+*.jpg
+*.png
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code local settings
+.claude/
+
+# logs
+*.log
